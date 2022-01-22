@@ -1,0 +1,60 @@
+.calculator {
+  display: flex;
+  flex-direction: column;
+}
+
+.numbers {
+  display: flex;
+  flex-direction: column;
+}
+
+.first-tile {
+  margin-bottom: 20px;
+}
+
+.second-tile {
+  margin-bottom: 20px;
+}
+
+.third-tile {
+  margin-bottom: 20px;
+}
+
+.fourth-tile {
+  margin-bottom: 20px;
+}
+
+.gray-button {
+  border: none;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.orange-button {
+  border: none;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.dark-gray-button {
+  border: none;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.current-number {
+  color: white;
+}
+
+.calc-text {
+  color: white;
+}
